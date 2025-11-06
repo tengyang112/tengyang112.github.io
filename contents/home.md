@@ -1,13 +1,12 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in  at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>yangteng@mail.nwpu.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**Northwestern Polytechnical University**, Master of XX (XX – XX)  
 • GPA: XX/XX  
 
 **XX University**, Exchange student <br>  
