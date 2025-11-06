@@ -1,7 +1,7 @@
 [![tengyang112](https://img.shields.io/badge/tengyang112-github-blue?logo=github)](https://github.com/tengyang112)
 
 I am currently pursuing the Master’s degree at the School of Automation, Northwestern Polytechnical University, under the supervision of Professor Dingwen Zhang.
-My current research interests include image matching and multi-modal fusio
+My current research interests include image matching and multi-modal fusion
 
 #### Email  
 <code>yangteng@mail.nwpu.edu.cn</code>  
