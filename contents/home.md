@@ -1,19 +1,15 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![tengyang112](https://img.shields.io/badge/tengyang112-github-blue?logo=github)](https://github.com/tengyang112)
 
-I'm currently pursuing a Master's degree in  at the Department of XX, XX University, XX.
+I am currently pursuing the Master’s degree at the School of Automation, Northwestern Polytechnical University, under the supervision of Professor Dingwen Zhang.
+My current research interests include image matching and multi-modal fusio
 
 #### Email  
 <code>yangteng@mail.nwpu.edu.cn</code>  
 
 #### Education  
-**Northwestern Polytechnical University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Northwestern Polytechnical University**, Master of Automation (2023 – 2026)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Northwestern Polytechnical University**, Bachelor of Automation (2019 - 2023)
 
 #### Research Interests  
-XX, XX, XX, XX.
+Image Matching, Continual Learning, Multi-modal Fusion, Deep Learning.
